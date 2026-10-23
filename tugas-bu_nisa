@@ -85,3 +85,73 @@
   </div>
     </div>
     </section>
+
+<!-- Menu -->
+      <section id="menu">
+      <div class="container my-5">
+        <div class="container mt-5">
+          <h2 class="text-center fw-bold text-warning mb-4">Pelajaran Kompetensi Keahlian RPL</h2>
+        </div>
+      <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="col">
+        <div class="card h-100 border-0 shadow-sm text-center p-3">
+          <img src="html.jpg" class="card-img-top img-fluid rounded" alt="Product 1">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title fw-bold">HTML</h5>
+            <p class="card-text text-secondary flex-grow-1">Belajar membuat struktur dasar halaman, teks, dan elemen website.</p>
+            <a href="https://www.w3schools.com/html/default.asp" class="btn btn-warning w-100 mt-auto text-dark fw-medium">Try now</a>
+          </div>
+        </div>
+      </div>
+        <div class="col">
+      <div class="card h-100 border-0 shadow-sm text-center p-3">
+        <img src="css.jpg" class="card-img-top img-fluid rounded" alt="Product 2">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title fw-bold">CSS</h5>
+          <p class="card-text text-secondary flex-grow-1">Belajar menghias tampilan, warna, tata letak, dan animasi halaman web.</p>
+          <a href="https://www.w3schools.com/css/default.asp" class="btn btn-warning w-100 mt-auto text-dark fw-medium">Try Now</a>
+        </div>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card h-100 border-0 shadow-sm text-center p-3">
+        <img src="js.jpg" class="card-img-top img-fluid rounded" alt="Product 3">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title fw-bold">JavaScript</h5>
+          <p class="card-text text-secondary flex-grow-1">Belajar membuat website menjadi hidup, interaktif, dan dinamis.</p>
+          <a href="https://www.w3schools.com/js/default.asp" class="btn btn-warning w-100 mt-auto text-dark fw-medium">Try Now</a>
+        </div>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card h-100 border-0 shadow-sm text-center p-3">
+        <img src="php.jpg" class="card-img-top img-fluid rounded" alt="Product 4">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title fw-bold">PHP</h5>
+          <p class="card-text text-secondary flex-grow-1">Belajar mengolah data server dan mengatur logika di balik layar website.</p>
+          <a href="https://www.w3schools.com/php/default.asp" class="btn btn-warning w-100 mt-auto text-dark fw-medium">Try Now</a>
+        </div>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card h-100 border-0 shadow-sm text-center p-3">
+        <img src="mysql.jpg" class="card-img-top img-fluid rounded" alt="Product 5">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title fw-bold">MySQL</h5>
+          <p class="card-text text-secondary flex-grow-1">Belajar membuat, menyimpan, dan mengelola database atau data pengguna website.</p>
+          <a href="https://www.w3schools.com/sql/default.asp" class="btn btn-warning w-100 mt-auto text-dark fw-medium">Try Now</a>
+        </div>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card h-100 border-0 shadow-sm text-center p-3">
+        <img src="python.jpg" class="card-img-top img-fluid rounded" alt="Product 6">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title fw-bold">Python</h5>
+          <p class="card-text text-muted flex-grow-1">Belajar logika pemrograman lanjutan untuk web backend, analisis data, dan AI.</p>
+          <a href="https://www.w3schools.com/python/default.asp" class="btn btn-warning w-100 mt-auto text-dark fw-medium">Try Now</a>
+        </div>
+      </div>
+    </div>
+    </div>
+      </section>
