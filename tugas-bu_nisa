@@ -61,3 +61,27 @@
   </div>
     </div>
     </section>
+
+<!-- main -->
+    <!-- Card Pembelajaran -->
+    <section id="about">
+    <div class="container my-5">
+  <div class="card border-0">
+    <div class="row align-items-center">
+      <div class="col-md-8 order-2 order-md-1">
+        <div class="card-body p-0">
+          <h2 class="card-title text-center text-warning fs-4 fw-bold mb-4">Tentang Saya</h2>
+          <p class="text-dark text-dark lh-base mb-4">
+            Saya Regita Awdinov, siswi jurusan Rekayasa Perangkat Lunak (RPL) yang antusias dalam menjelajahi dunia teknologi digital. Fokus utama saya saat ini adalah mendalami bahasa pemrograman dan memahami bagaimana sebuah sistem atau aplikasi dibangun dari awal. Saya percaya bahwa setiap baris kode yang saya pelajari hari ini adalah langkah awal untuk menciptakan inovasi di masa depan.
+          <p class="text-secondary fst-italic mb-0">
+            "Fokuslah menjadi versi terbaik dari dirimu sendiri, bukan menjadi lebih baik dari orang lain."
+          </p> 
+        </div>
+      </div>
+        <div class="col-md-4 order-1 order-md-2 text-center text-md-end mb-4 mb-md-0">
+          <img src="rg.jpg" class="img-fluid rounded shadow">
+        </div>
+    </div>
+  </div>
+    </div>
+    </section>
